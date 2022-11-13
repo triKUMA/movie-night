@@ -1,0 +1,18 @@
+.room {
+  .room-details {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .video-grid {
+    display: flex;
+    gap: 1rem;
+  }
+
+  video {
+    width: 50%;
+    aspect-ratio: 16/9;
+    background-color: black;
+  }
+}

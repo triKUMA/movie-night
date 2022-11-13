@@ -9,6 +9,9 @@
     "server",
     "packages/*"
   ],
+  "scripts": {
+    "start": "yarn workspace client start"
+  },
   "dependencies": {
     "concurrently": "^7.5.0"
   }

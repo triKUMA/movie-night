@@ -1,1 +1,5 @@
-/*# sourceMappingURL=Home.css.map */
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}/*# sourceMappingURL=Home.css.map */

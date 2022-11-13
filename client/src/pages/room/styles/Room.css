@@ -1,1 +1,14 @@
-/*# sourceMappingURL=Room.css.map */
+.room .room-details {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+.room .video-grid {
+  display: flex;
+  gap: 1rem;
+}
+.room video {
+  width: 50%;
+  aspect-ratio: 16/9;
+  background-color: black;
+}/*# sourceMappingURL=Room.css.map */
